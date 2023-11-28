@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+body {
+    background-image: linear-gradient(to bottom right, #7F7FD5 , #91EAE4);
+  }
+
 h1 {
     text-align: center;
     padding: 1em;
