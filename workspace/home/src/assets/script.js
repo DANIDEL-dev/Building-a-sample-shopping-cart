@@ -5,21 +5,21 @@ const products = [
     price: 10,
     quantity: 0,
     productId: 100,
-    image: "./images/cherry.jpg"
+    image: "./workspace/home/src/images/cherry.jpg"
   },
   {
     name: "Orange",
     price: 20,
     quantity: 0, 
     productId: 200,
-    image: "./images/orange.jpg"
+    image: "./workspace/home/src/images/orange.jpg"
   },
   {
     name: "Strawberry",
     price: 30,
     quantity: 0, 
     productId: 300,
-    image: "./images/strawberry.jpg"
+    image: "./workspace/home/src/images/strawberry.jpg"
   }
 ];
 
